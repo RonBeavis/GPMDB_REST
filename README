@@ -1,3 +1,2 @@
 GPMDB_REST contains PERL files used for the GPMDB REST interface.
-These files are meant to explain how the REST requests are made and what information is retrieved
-in order to create the output.
+These files are meant to explain how the REST requests are made and what information is retrieved in order to create the output.
